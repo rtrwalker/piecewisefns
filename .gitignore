@@ -1,0 +1,20 @@
+# Compiled python modules.
+*.pyc
+
+# Setuptools distribution folder.
+/dist/
+
+# setuptools build folder ????
+/build/
+
+# Python egg metadata, regenerated from source files by setuptools.
+/*.egg-info
+
+# License header for each source file
+LICENSE_header.txt
+
+# auto document folder
+/docs/auto
+
+#IPython Notebook files, save them as .py files and they will then be version controlled.
+*.ipynb
